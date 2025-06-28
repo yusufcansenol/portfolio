@@ -1,64 +1,56 @@
 {
   "primaryColorTheme": "blue",
-  "endpoint": "senolmurat.dev",
-  "name": "Murat",
+  "endpoint": "senolyusuf.dev",
+  "name": "Yusufcan",
   "surname": "Şenol",
-  "email": "murat.senol99@gmail.com",
-  "image": "https://media.licdn.com/dms/image/v2/D4D03AQGbEiG5WhLk6w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1672684378089?e=1754524800&v=beta&t=a4T2FOIEa5ovyuQxTdeGiXVvM6iTAsVnusyerSGApmk",
+  "email": "yusufcan.senol@gmail.com",
+  "image": "https://media.licdn.com/dms/image/v2/D4D03AQFkJXWM3nAQLw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701118601355?e=1756339200&v=beta&t=36S2HSNrQdCfmjOAx0c7gBR1pKd5_ehlA6pO_4xJuuU",
   "image_position": "right",
   "location": "İstanbul, Turkey",
   "address": "İstanbul-Kadıköy",
-  "phone": "+90 (535) 836-3969",
-  "languages": ["English", "Turkish"],
-  "degree": "Bachelor of Computer Science",
-  "title": "iOS Developer & Consultant",
-  "yearsOfExperience": "3",
+  "phone": "+90 (541) 234-1994",
+  "languages": ["Turkish","English","Spanish"],
+  "degree": "Bachelor of Industrial Engineering",
+  "title": "Data Analyst",
+  "yearsOfExperience": "2",
   "social": {
-    "linkedin": "https://www.linkedin.com/in/senolmurat/",
-    "github": "https://github.com/senolmurat",
+    "linkedin": "https://www.linkedin.com/in/yusufcansenol/",
+    "github": "https://github.com/yusufcansenol",
     "dribbble": "",
     "instagram": "",
     "twitter": "",
     "behance": ""
   },
   "skills": {
-    "subtitle": "Technologies and abilities I've mastered to build powerful mobile applications.",
+    "subtitle": "Technologies and abilities I've mastered to generate insight and build powerful data solutions.",
     "technicalSkills": [
-      "Swift / SwiftUI",
-      "UIKit",
-      "XCode",
-      "Clean Architecture"
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Python (Pandas, Numpy, Matplotlib, Seaborn)"
     ],
     "professionalSkills": [
-      "UI/UX Design",
-      "Communication",
+      "Analytical Thinking",
       "Problem Solving",
-      "Team Player"
+      "Team Collaboration",
+      "Communication"
     ],
     "tools": [
       {
-        "name": "iOS",
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"
+        "name": "Python",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
       },
       {
-        "name": "XCode",
+        "name": "SQL",
         "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"
       },
       {
-        "name": "Swift",
+        "name": "Excel",
         "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
       },
       {
-        "name": "Swift UI",
+        "name": "Power BI",
         "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg"
-      },
-      {
-        "name": "Firebase",
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"
-      },
-      {
-        "name": "HTML",
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
       }
     ]
   },
